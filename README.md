@@ -611,3 +611,73 @@ Ce travail m'a permis de mieux comprendre l'importance de Git dans la gestion de
 
 https://github.com/hyybaafarhat-bit/Labs-Git
 
+
+---
+
+
+## 14. Captures du Lab 1
+
+![Lab 1 - Capture 02](captures/lab1-02.png)
+
+![Lab 1 - Capture 03](captures/lab1-03.png)
+
+![Lab 1 - Capture 04](captures/lab1-04.png)
+
+![Lab 1 - Capture 05](captures/lab1-05.png)
+
+![Lab 1 - Capture 06](captures/lab1-06.png)
+
+![Lab 1 - Capture 07](captures/lab1-07.png)
+
+![Lab 1 - Capture 08](captures/lab1-08.png)
+
+![Lab 1 - Capture 09](captures/lab1-09.png)
+
+![Lab 1 - Capture 10](captures/lab1-10.png)
+
+
+---
+
+
+## 15. Captures du Lab 4
+
+![Lab 4 - Capture 01](captures/lab4-01.png)
+
+![Lab 4 - Capture 02](captures/lab4-02.png)
+
+![Lab 4 - Capture 03](captures/lab4-03.png)
+
+![Lab 4 - Capture 04](captures/lab4-04.png)
+
+![Lab 4 - Capture 05](captures/lab4-05.png)
+
+![Lab 4 - Capture 06](captures/lab4-06.png)
+
+![Lab 4 - Capture 07](captures/lab4-07.png)
+
+![Lab 4 - Capture 08](captures/lab4-08.png)
+
+![Lab 4 - Capture 09](captures/lab4-09.png)
+
+![Lab 4 - Capture 10](captures/lab4-10.png)
+
+![Lab 4 - Capture 11](captures/lab4-11.png)
+
+![Lab 4 - Capture 12](captures/lab4-12.png)
+
+![Lab 4 - Capture 13](captures/lab4-13.png)
+
+![Lab 4 - Capture 14](captures/lab4-14.png)
+
+![Lab 4 - Capture 15](captures/lab4-15.png)
+
+![Lab 4 - Capture 16](captures/lab4-16.png)
+
+![Lab 4 - Capture 17](captures/lab4-17.png)
+
+![Lab 4 - Capture 18](captures/lab4-18.png)
+
+![Lab 4 - Capture 19](captures/lab4-19.png)
+
+![Lab 4 - Capture 20](captures/lab4-20.png)
+
